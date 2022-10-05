@@ -29,3 +29,10 @@ const myArray = [];
 ### Answers
 
 ```javascript
+// Setup
+const myArray = [9, 7, 5, 3, 1];
+for (let i = 9; i < 0; i -= 2) {
+  myArray.push(i);
+}
+// Only change code below this line
+```
