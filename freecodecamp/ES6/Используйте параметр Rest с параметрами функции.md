@@ -22,6 +22,7 @@ const sum = (x, y, z) => {
 }
 ```
 ### Answers
+
 ```javascrit
 const sum = (...args) => {
   return args.reduce((a, b) => a + b, 0);
