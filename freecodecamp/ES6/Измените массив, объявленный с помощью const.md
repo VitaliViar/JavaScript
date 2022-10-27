@@ -36,7 +36,6 @@ function editInPlace() {
 editInPlace();
 ```
 ### Answers
-
 ```javascript
 const s = [5, 7, 2];
 function editInPlace() {
