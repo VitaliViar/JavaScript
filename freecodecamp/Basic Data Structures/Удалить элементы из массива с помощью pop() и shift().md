@@ -32,5 +32,4 @@ console.log(popShift(['challenge', 'is', 'not', 'complete']));
 ```
 ### Answers
 ```javascript
-
 ```
