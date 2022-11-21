@@ -23,5 +23,8 @@ let dog = {
 ```
 ### Answers
 ```javascript
-
+let dog = {
+name: "Aflac",
+  numLegs: 2
+};
 ```
